@@ -11,3 +11,8 @@ print "HEllo"
 
 fa = lambda x,y : x+y
 prnt fa(2,4)
+
+
+la = [3,6,7,8,9]
+fil = map(lambda x: x*x ,la)
+print fil

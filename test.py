@@ -4,3 +4,5 @@ def sqr(fa):
 			s += i
 		return s
 print sqr([1,2,3,4])
+
+print "HEllo"
